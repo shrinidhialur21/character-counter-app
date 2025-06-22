@@ -1,0 +1,1 @@
+docker build --pull -t shrinidhialur/character-count:1.0.0 --push .
